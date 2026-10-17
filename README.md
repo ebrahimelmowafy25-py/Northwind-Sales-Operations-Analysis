@@ -32,7 +32,6 @@ The Power BI dashboard contains five pages:
 - Unshipped orders: **21**
 
 ## Dashboard Screenshots
-
 ![Northwind Overview Dashboard](images/overview.JPG)
 
 ![Northwind Products Dashboard](images/products.JPG)
@@ -42,7 +41,6 @@ The Power BI dashboard contains five pages:
 ![Northwind Employees Dashboard](images/employees.JPG)
 
 ![Northwind Shipping Dashboard](images/shipping.JPG)
-
 
 ## How to Explore
 1. Open the SQL file to review the analysis queries.
