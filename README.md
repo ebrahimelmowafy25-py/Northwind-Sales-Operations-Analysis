@@ -34,13 +34,13 @@ The Power BI dashboard contains five pages:
 ## Dashboard Screenshots
 ![Northwind Overview Dashboard](images/overview..JPG)
 
-![Northwind Products Dashboard](images/products.JPG)
+![Northwind Products Dashboard](images/products..JPG)
 
-![Northwind Customers Dashboard](images/customers.JPG)
+![Northwind Customers Dashboard](images/customers..JPG)
 
-![Northwind Employees Dashboard](images/employees.JPG)
+![Northwind Employees Dashboard](images/employees..JPG)
 
-![Northwind Shipping Dashboard](images/shipping.JPG)
+![Northwind Shipping Dashboard](images/shipping..JPG)
 
 ## How to Explore
 1. Open the SQL file to review the analysis queries.
