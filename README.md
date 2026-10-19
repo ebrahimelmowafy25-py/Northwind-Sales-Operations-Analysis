@@ -11,11 +11,17 @@ The project combines SQL, Python, and Power BI to transform raw data into useful
 - **Power BI:** Interactive dashboard development and data visualization.
 
 ## Project Structure
-- `python_da/` — Python notebook and dataset.
-- `sql/` — SQL analysis queries.
-- `power-bi/` — Power BI dashboard.
-- `README.md` — Project documentation.
+- data/ — Contains the CSV files used for the analysis.
 
+- images/ — Contains screenshots of the five Power BI dashboard pages.
+
+- Data_Analysis_Project_sq.sql — SQL queries for sales and operations analysis.
+
+- analysis.ipynb — Python notebook for data exploration and analysis.
+
+- the_big_power_pi_project.pbix — Power BI dashboard file.
+
+- README.md — Project overview, documentation, and dashboard screenshots.
 ## Dashboard Pages
 The Power BI dashboard contains five pages:
 
